@@ -2,6 +2,8 @@
 Discover the tools software developers use to build scalable AI-powered algorithms in TensorFlow, a popular open-source machine learning framework. Instructed by Laurence Moroney
 https://www.coursera.org/specializations/tensorflow-in-practice
 
+Followings are my course notes on my own Medium page
+
 ## 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
 1-1 [Week 1](https://medium.com/chiukevin0321/introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning-week-30ffd233a196 "link")
 
