@@ -2,6 +2,8 @@
 Discover the tools software developers use to build scalable AI-powered algorithms in TensorFlow, a popular open-source machine learning framework. Instructed by Laurence Moroney
 https://www.coursera.org/specializations/tensorflow-in-practice
 
+[COURSE CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/TJ2EY784AP89 "link")
+
 Followings are my course notes on my own Medium page
 
 ## 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
@@ -34,8 +36,8 @@ Followings are my course notes on my own Medium page
 ## 4. Sequences, Time Series and Prediction 
 4-1 [Week 1](https://medium.com/chiukevin0321/sequences-time-series-and-prediction-week-1-8f3277c36426 "link")
 
-4-2 [Week 2]
+4-2 [Week 2](https://medium.com/chiukevin0321/sequences-time-series-and-prediction-week-2-e7ae296bc289 "link")
 
-4-3 [Week 3]
+4-3 [Week 3](https://medium.com/chiukevin0321/sequences-time-series-and-prediction-week-3-5142a7753359 "link")
 
-4-4 [Week 4]
+4-4 [Week 4](https://medium.com/chiukevin0321/sequences-time-series-and-prediction-week-4-7671a681d2c5 "link")
